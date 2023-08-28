@@ -1,7 +1,6 @@
 window.player = null;
 
 const dashUrl = 'https://cmafref.akamaized.net/cmaf/live-ull/2006350/akambr/out.mpd';
-//const dashUrl = 'https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd';
 const hlsUrl = 'https://stream.mux.com/v69RSHhFelSm4701snP22dYz2jICy4E4FUyk02rW4gxRM.m3u8';
 
 window.srcUrl = hlsUrl;
